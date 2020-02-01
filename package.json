@@ -1,0 +1,24 @@
+{
+  "name": "mapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djshin98/mapper.git"
+  },
+  "keywords": [
+    "mapper",
+    "git",
+    "scss"
+  ],
+  "author": "djshin98",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djshin98/mapper/issues"
+  },
+  "homepage": "https://github.com/djshin98/mapper#readme"
+}
